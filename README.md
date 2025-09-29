@@ -1,0 +1,16 @@
+## angelican-user 11 RP1A.200720.011 V12.5.3.0.RCSRUXM release-keys
+- Manufacturer: xiaomi
+- Platform: mt6765
+- Codename: angelican
+- Brand: Redmi
+- Flavor: angelican-user
+- Release Version: 11
+- Kernel Version: 4.19.127
+- Id: RP1A.200720.011
+- Incremental: V12.5.3.0.RCSRUXM
+- Tags: release-keys
+- CPU Abilist: armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Compatible: true
+- Locale: en-GB
+- Screen Density: 440
